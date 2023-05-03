@@ -1,0 +1,12 @@
+1:
+
+(0.5, 5)
+Average_delay=0.032580 Seconds
+Number of Packet Sent=9.000000  
+Number of Packet Dropped=0.000000  
+Number of Packet Received=9.000000  
+Packet Delivery Fraction (PDF)=100.000000 percent
+Average_Throughput=55240.531791 bits/second
+
+2:
+
